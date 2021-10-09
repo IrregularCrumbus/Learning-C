@@ -1,0 +1,1 @@
+I wanna be a 1337 H4X0R, but a book on hacking that I'm eyeing mostly contains C, which is something that some oaf like me could never learn. That doesn't mean I won't try, though. I'll document my C adventures here, and I'll do all this from a Raspberry Pi that I totally bought and totally wasn't something I'm borrowing from a teacher from school. 
